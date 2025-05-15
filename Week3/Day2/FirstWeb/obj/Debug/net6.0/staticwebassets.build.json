@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "u630CuJyJ1uxFfyYUHMrhsYqqQvY/VYlbbxTrpg/cdE=",
+  "Source": "FirstWeb",
+  "BasePath": "_content/FirstWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FirstWeb\\wwwroot",
+      "Source": "FirstWeb",
+      "ContentRoot": "C:\\Users\\waelh\\Desktop\\C-Sharp-May-dotent-Repo\\Week3\\Day2\\FirstWeb\\wwwroot\\",
+      "BasePath": "_content/FirstWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\waelh\\Desktop\\C-Sharp-May-dotent-Repo\\Week3\\Day2\\FirstWeb\\wwwroot\\css\\style.css",
+      "SourceId": "FirstWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\waelh\\Desktop\\C-Sharp-May-dotent-Repo\\Week3\\Day2\\FirstWeb\\wwwroot\\",
+      "BasePath": "_content/FirstWeb",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\waelh\\Desktop\\C-Sharp-May-dotent-Repo\\Week3\\Day2\\FirstWeb\\wwwroot\\images\\puppy.jfif",
+      "SourceId": "FirstWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\waelh\\Desktop\\C-Sharp-May-dotent-Repo\\Week3\\Day2\\FirstWeb\\wwwroot\\",
+      "BasePath": "_content/FirstWeb",
+      "RelativePath": "images/puppy.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\puppy.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\waelh\\Desktop\\C-Sharp-May-dotent-Repo\\Week3\\Day2\\FirstWeb\\wwwroot\\images\\puppy.jpg",
+      "SourceId": "FirstWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\waelh\\Desktop\\C-Sharp-May-dotent-Repo\\Week3\\Day2\\FirstWeb\\wwwroot\\",
+      "BasePath": "_content/FirstWeb",
+      "RelativePath": "images/puppy.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\puppy.jpg"
+    }
+  ]
+}
