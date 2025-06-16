@@ -1,0 +1,8 @@
+C:\Users\waelh\Desktop\C-Sharp-May-dotent-Repo\Week7\Day1\MtmDemo\obj\Debug\net6.0\MtmDemo.csproj.AssemblyReference.cache
+C:\Users\waelh\Desktop\C-Sharp-May-dotent-Repo\Week7\Day1\MtmDemo\obj\Debug\net6.0\MtmDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waelh\Desktop\C-Sharp-May-dotent-Repo\Week7\Day1\MtmDemo\obj\Debug\net6.0\MtmDemo.AssemblyInfoInputs.cache
+C:\Users\waelh\Desktop\C-Sharp-May-dotent-Repo\Week7\Day1\MtmDemo\obj\Debug\net6.0\MtmDemo.AssemblyInfo.cs
+C:\Users\waelh\Desktop\C-Sharp-May-dotent-Repo\Week7\Day1\MtmDemo\obj\Debug\net6.0\MtmDemo.csproj.CoreCompileInputs.cache
+C:\Users\waelh\Desktop\C-Sharp-May-dotent-Repo\Week7\Day1\MtmDemo\obj\Debug\net6.0\MtmDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\waelh\Desktop\C-Sharp-May-dotent-Repo\Week7\Day1\MtmDemo\obj\Debug\net6.0\MtmDemo.RazorAssemblyInfo.cache
+C:\Users\waelh\Desktop\C-Sharp-May-dotent-Repo\Week7\Day1\MtmDemo\obj\Debug\net6.0\MtmDemo.RazorAssemblyInfo.cs

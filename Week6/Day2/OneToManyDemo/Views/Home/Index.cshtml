@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model MyViewModel
+<div class="text-center">
+    <div class="text-center">
+        <div class="flex-1 m-2">
+            <h2>Add Maker</h2>
+            @await Html.PartialAsync("_AddMaker",Model.Maker)
+
+        </div>
+        <div class="flex-1 m-2">
+            <h2> All Makers</h2>
+            @foreach(Maker m in Model.AllMakers)
+            {
+                <h4>@m.Name</h4>
+                @foreach(Vehicle v in m.AllVehicles)
+                {
+                    <li>@v.ModelName</li>
+                }
+            }
+
+        </div>
+    </div>
+</diusing System.Linq.Expressions;
+

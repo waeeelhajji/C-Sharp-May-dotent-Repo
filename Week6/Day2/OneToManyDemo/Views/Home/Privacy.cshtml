@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Vehicle Page";
+}
+@model MyViewModel
+<div class="text-center">
+    <div class="text-center">
+        <div class="flex-1 m-2">
+            <h2>Add Maker</h2>
+            @await Html.PartialAsync("_addVehicle",Model.Vehicle)
+
+        </div>
+        <div class="flex-1 m-2">
+            <h2> All Makers</h2>
+            @foreach(Vehicle v in Model.AllVehicles)
+            {
+                <h3>@v.ModelName</h3>
+                <h5>@v.Maker.Name</h5>
+            }
+
+        </div>
+    </div>
+
+

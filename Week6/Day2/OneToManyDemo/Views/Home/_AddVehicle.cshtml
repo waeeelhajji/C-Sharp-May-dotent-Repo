@@ -1,0 +1,27 @@
+           
+@model Vehicle
+           
+ <form asp-action="CreateVehicle" asp-asp-controller="Home" method="post">
+                <div class="mb-3">
+                    <label asp-for="ModelName"></label>
+                    <input asp-for="ModelName" class="form-control">
+                    <span asp-validation-for="ModelName" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Color"></label>
+                    <input asp-for="Color" class="form-control">
+                    <span asp-validation-for="Color" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                <select asp-for="MakerId" class="form-select">
+                    @foreach(Maker m in ViewBag.AllMakers)
+                    {
+                        <option value="@m.MakerId">@m.Name</option>
+                    }
+                </select>
+                </div>
+                <div class="mb-3">
+                <input type="submit" value=" Add Vehicle" class="btn btn-info">
+
+            </div>
+     </form>
